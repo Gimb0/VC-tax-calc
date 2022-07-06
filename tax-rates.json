@@ -1,0 +1,116 @@
+{
+    "AllTaxYears": [
+        {
+            "FYStart": 2020,
+            "FYEnd": 2021,
+            "taxBrackets": [
+                {
+                    "FYStart": 2020,
+                    "FYEnd": 2021,
+                    "taxBracketID": 0,
+                    "lumpSumTax": 0.0,
+                    "taxRate": 0.0,
+                    "taxRateThreshold": 0.0,
+                    "taxableIncomeStart": 0.0,
+                    "taxableIncomeFinish": 18200.0
+                },
+                {
+                    "FYStart": 2020,
+                    "FYEnd": 2021,
+                    "taxBracketID": 1,
+                    "lumpSumTax": 0.0,
+                    "taxRate": 19.0,
+                    "taxRateThreshold": 18200.0,
+                    "taxableIncomeStart": 18201.0,
+                    "taxableIncomeFinish": 45000.0
+                },
+                {
+                    "FYStart": 2020,
+                    "FYEnd": 2021,
+                    "taxBracketID": 2,
+                    "lumpSumTax": 5092.0,
+                    "taxRate": 32.5,
+                    "taxRateThreshold": 45000.0,
+                    "taxableIncomeStart": 45001.0,
+                    "taxableIncomeFinish": 120000.0
+                },
+                {
+                    "FYStart": 2020,
+                    "FYEnd": 2021,
+                    "taxBracketID": 3,
+                    "lumpSumTax": 29467.0,
+                    "taxRate": 37.0,
+                    "taxRateThreshold": 120000.0,
+                    "taxableIncomeStart": 120001.0,
+                    "taxableIncomeFinish": 180000.0
+                },
+                {
+                    "FYStart": 2020,
+                    "FYEnd": 2021,
+                    "taxBracketID": 4,
+                    "lumpSumTax": 51667.0,
+                    "taxRate": 45.0,
+                    "taxRateThreshold": 180000.0,
+                    "taxableIncomeStart": 180001.0,
+                    "taxableIncomeFinish": 0.0
+                }
+            ]
+        },
+        {
+            "FYStart": 2021,
+            "FYEnd": 2022,
+            "taxBrackets": [
+                {
+                    "FYStart": 2021,
+                    "FYEnd": 2022,
+                    "taxBracketID": 0,
+                    "lumpSumTax": 0.0,
+                    "taxRate": 0.0,
+                    "taxRateThreshold": 0.0,
+                    "taxableIncomeStart": 0.0,
+                    "taxableIncomeFinish": 18200.0
+                },
+                {
+                    "FYStart": 2021,
+                    "FYEnd": 2022,
+                    "taxBracketID": 1,
+                    "lumpSumTax": 0.0,
+                    "taxRate": 19.0,
+                    "taxRateThreshold": 18200.0,
+                    "taxableIncomeStart": 18201.0,
+                    "taxableIncomeFinish": 45000.0
+                },
+                {
+                    "FYStart": 2021,
+                    "FYEnd": 2022,
+                    "taxBracketID": 2,
+                    "lumpSumTax": 5092.0,
+                    "taxRate": 32.5,
+                    "taxRateThreshold": 45000.0,
+                    "taxableIncomeStart": 45001.0,
+                    "taxableIncomeFinish": 120000.0
+                },
+                {
+                    "FYStart": 2021,
+                    "FYEnd": 2022,
+                    "taxBracketID": 3,
+                    "lumpSumTax": 29467.0,
+                    "taxRate": 37.0,
+                    "taxRateThreshold": 120000.0,
+                    "taxableIncomeStart": 120001.0,
+                    "taxableIncomeFinish": 180000.0
+                },
+                {
+                    "FYStart": 2021,
+                    "FYEnd": 2022,
+                    "taxBracketID": 4,
+                    "lumpSumTax": 51667.0,
+                    "taxRate": 45.0,
+                    "taxRateThreshold": 180000.0,
+                    "taxableIncomeStart": 180001.0,
+                    "taxableIncomeFinish": 0.0
+                }
+            ]
+        }
+    ]
+}
