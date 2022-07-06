@@ -5,7 +5,7 @@ import traceback
 
 
 class TaxRatesHandler:
-    taxRatesFile: str = "../tax-rates.json"
+    taxRatesFile: str = "./tax-rates.json"
     taxRates = TaxRates(tuple())
 
     def __init__(self):
